@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "id:entity voices(Instrumental)",
+  "base_artist": "hololive Indonesia",
+  "createdAt": "2026-03-02T01:46:30.232767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "id:entity voices",
+      "artist": "hololive Indonesia",
+      "has_synced": false,
+      "path": "select/pl_01_id_entity_voices_hololive_Indonesia.txt"
+    }
+  ]
+}
